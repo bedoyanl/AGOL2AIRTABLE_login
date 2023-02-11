@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "id": "Home_Login",
+      "isDefault": true
+    },
+    {
+      "id": "SubForm",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "63488152e0528e5b0f759728",
+  "color": "#D6D1F2",
+  "icon": "bar-graph",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}

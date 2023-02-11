@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Add_new_FeaturesObject",
+    "pageId": "SubForm",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "SubForm_Add_new_FeaturesObject",
+  "deleted": false,
+  "gitSyncId": "63acb578647efb486b773b42_63b472b5f276cd0745e963aa"
+}
